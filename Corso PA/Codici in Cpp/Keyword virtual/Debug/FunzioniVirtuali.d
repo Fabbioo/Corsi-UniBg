@@ -1,0 +1,1 @@
+FunzioniVirtuali.o: ../FunzioniVirtuali.cpp

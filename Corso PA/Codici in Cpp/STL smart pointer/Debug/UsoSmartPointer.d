@@ -1,0 +1,1 @@
+UsoSmartPointer.o: ../UsoSmartPointer.cpp

@@ -1,0 +1,1 @@
+Conversione.o: ../Conversione.c

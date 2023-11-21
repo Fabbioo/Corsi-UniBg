@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/GoogleDrive/Il mio Drive/Università/02 - Magistrale/4^ anno/1^ semestre/PAC/PA/Esercitazione/Esercitazione 04/jgrapht-1.5.1/lib/jgrapht-demo-1.5.1.jar" sourcepath="/Volumes/GoogleDrive/Il mio Drive/Università/02 - Magistrale/4^ anno/1^ semestre/PAC/PA/Esercitazione/Esercitazione 04/jgrapht-1.5.1/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/GoogleDrive/Il%20mio%20Drive/Università/02%20-%20Magistrale/4%5E%20anno/1%5E%20semestre/PAC/PA/Esercitazione/Esercitazione%2004/jgrapht-1.5.1/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/GoogleDrive/Il mio Drive/Università/02 - Magistrale/4^ anno/1^ semestre/PAC/PA/Esercitazione/Esercitazione 04/jgrapht-1.5.1/lib/jgrapht-core-1.5.1.jar" sourcepath="/Volumes/GoogleDrive/Il mio Drive/Università/02 - Magistrale/4^ anno/1^ semestre/PAC/PA/Esercitazione/Esercitazione 04/jgrapht-1.5.1/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/GoogleDrive/Il%20mio%20Drive/Università/02%20-%20Magistrale/4%5E%20anno/1%5E%20semestre/PAC/PA/Esercitazione/Esercitazione%2004/jgrapht-1.5.1/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/GoogleDrive/Il mio Drive/Università/02 - Magistrale/4^ anno/1^ semestre/PAC/PA/Esercitazione/Esercitazione 04/jgrapht-1.5.1/lib/jheaps-0.13.jar" sourcepath="/Volumes/GoogleDrive/Il mio Drive/Università/02 - Magistrale/4^ anno/1^ semestre/PAC/PA/Esercitazione/Esercitazione 04/jgrapht-1.5.1/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Volumes/GoogleDrive/Il%20mio%20Drive/Università/02%20-%20Magistrale/4%5E%20anno/1%5E%20semestre/PAC/PA/Esercitazione/Esercitazione%2004/jgrapht-1.5.1/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

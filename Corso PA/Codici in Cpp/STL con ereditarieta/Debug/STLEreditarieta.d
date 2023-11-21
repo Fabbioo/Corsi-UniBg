@@ -1,0 +1,1 @@
+STLEreditarieta.o: ../STLEreditarieta.cpp

@@ -1,0 +1,1 @@
+NumeroMinore.o: ../NumeroMinore.c

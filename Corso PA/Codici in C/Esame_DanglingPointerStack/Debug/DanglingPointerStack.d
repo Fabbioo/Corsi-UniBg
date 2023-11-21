@@ -1,0 +1,1 @@
+DanglingPointerStack.o: ../DanglingPointerStack.c

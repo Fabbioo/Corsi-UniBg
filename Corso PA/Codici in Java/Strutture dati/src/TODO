@@ -1,0 +1,6 @@
+mancano da implementare:
+_ priority queue (da mettere nel package Queue);
+_ tutti i grafi (creare un nuovo package);
+_ tutti gli alberi (creare un nuovo package);
+_ modifica i nomi di tutti i metodi con i nomi convenzionalmente accettati (ad esempio al posto di
+  "inserisci" metti "push") e metti una descrizione tra i commenti relativa a cosa serve quel metodo;

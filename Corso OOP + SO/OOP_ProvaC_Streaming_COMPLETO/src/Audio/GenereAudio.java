@@ -1,0 +1,6 @@
+package Audio;
+
+public enum GenereAudio
+{
+	AMERICANO, BRASILIANO, AFRICANO, EUROPEO, INDIANO, CINESE, GIAPPONESE, AUSTRALIANO;
+}

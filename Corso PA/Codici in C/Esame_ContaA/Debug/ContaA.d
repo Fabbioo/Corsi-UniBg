@@ -1,0 +1,1 @@
+ContaA.o: ../ContaA.c

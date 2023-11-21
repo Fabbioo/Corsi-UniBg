@@ -1,0 +1,1 @@
+Usosprintf.o: ../Usosprintf.c

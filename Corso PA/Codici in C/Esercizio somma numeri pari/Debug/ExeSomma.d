@@ -1,0 +1,1 @@
+ExeSomma.o: ../ExeSomma.c

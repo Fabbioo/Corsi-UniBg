@@ -1,0 +1,1 @@
+SommeRipetute.o: ../SommeRipetute.c

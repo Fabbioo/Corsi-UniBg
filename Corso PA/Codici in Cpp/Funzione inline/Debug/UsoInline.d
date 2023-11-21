@@ -1,0 +1,1 @@
+UsoInline.o: ../UsoInline.cpp

@@ -1,0 +1,1 @@
+TogliA.o: ../TogliA.c

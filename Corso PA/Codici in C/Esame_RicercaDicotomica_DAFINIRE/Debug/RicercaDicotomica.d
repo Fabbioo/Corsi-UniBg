@@ -1,0 +1,1 @@
+RicercaDicotomica.o: ../RicercaDicotomica.c

@@ -1,0 +1,1 @@
+ConversioneIntChar.o: ../ConversioneIntChar.c

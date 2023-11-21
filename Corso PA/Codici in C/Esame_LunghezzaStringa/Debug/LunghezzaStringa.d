@@ -1,0 +1,1 @@
+LunghezzaStringa.o: ../LunghezzaStringa.c

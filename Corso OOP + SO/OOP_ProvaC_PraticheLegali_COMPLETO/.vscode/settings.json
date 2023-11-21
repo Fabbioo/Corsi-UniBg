@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/fabio/Visual Studio Code/Java/prog-4ed.jar"
+    ]
+}

@@ -1,0 +1,1 @@
+ContaPositivi.o: ../ContaPositivi.c

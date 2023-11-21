@@ -1,0 +1,1 @@
+ricercaMin.o: ../ricercaMin.c

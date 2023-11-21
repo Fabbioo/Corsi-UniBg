@@ -1,0 +1,1 @@
+AttivazioneBindingDinamico.o: ../AttivazioneBindingDinamico.cpp

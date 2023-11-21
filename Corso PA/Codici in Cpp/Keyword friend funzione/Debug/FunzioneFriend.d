@@ -1,0 +1,1 @@
+FunzioneFriend.o: ../FunzioneFriend.cpp

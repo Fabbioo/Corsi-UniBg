@@ -1,0 +1,1 @@
+MassimoInteroPari.o: ../MassimoInteroPari.c

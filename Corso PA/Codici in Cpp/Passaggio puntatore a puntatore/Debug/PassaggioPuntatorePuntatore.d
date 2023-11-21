@@ -1,0 +1,1 @@
+PassaggioPuntatorePuntatore.o: ../PassaggioPuntatorePuntatore.cpp

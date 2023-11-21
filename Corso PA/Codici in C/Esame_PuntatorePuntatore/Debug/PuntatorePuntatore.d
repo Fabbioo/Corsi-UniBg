@@ -1,0 +1,1 @@
+PuntatorePuntatore.o: ../PuntatorePuntatore.c

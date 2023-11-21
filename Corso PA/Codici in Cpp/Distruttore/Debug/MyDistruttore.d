@@ -1,0 +1,1 @@
+MyDistruttore.o: ../MyDistruttore.cpp

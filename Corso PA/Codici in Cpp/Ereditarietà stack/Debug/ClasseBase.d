@@ -1,0 +1,1 @@
+ClasseBase.o: ../ClasseBase.cpp

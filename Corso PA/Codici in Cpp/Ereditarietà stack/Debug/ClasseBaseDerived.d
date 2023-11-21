@@ -1,0 +1,1 @@
+ClasseBaseDerived.o: ../ClasseBaseDerived.cpp

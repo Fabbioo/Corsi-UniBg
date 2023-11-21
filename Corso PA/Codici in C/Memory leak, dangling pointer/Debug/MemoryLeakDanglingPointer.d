@@ -1,0 +1,1 @@
+MemoryLeakDanglingPointer.o: ../MemoryLeakDanglingPointer.c

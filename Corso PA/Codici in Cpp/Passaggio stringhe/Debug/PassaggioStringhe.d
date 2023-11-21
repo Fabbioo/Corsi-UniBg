@@ -1,0 +1,1 @@
+PassaggioStringhe.o: ../PassaggioStringhe.cpp

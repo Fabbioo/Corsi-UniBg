@@ -1,0 +1,3 @@
+C;C;Fifa;Giacomo;Nina;12:30;CAMPIONATO;120;
+P;P;PES;Fabio;Andrea;16:28;AMICHEVOLE;100;
+N;N;GTA;Daniele;Annalisa;09:32;CAMPIONATO;140;

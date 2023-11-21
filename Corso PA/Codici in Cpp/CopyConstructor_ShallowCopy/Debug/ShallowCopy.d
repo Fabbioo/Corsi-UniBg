@@ -1,0 +1,1 @@
+ShallowCopy.o: ../ShallowCopy.cpp

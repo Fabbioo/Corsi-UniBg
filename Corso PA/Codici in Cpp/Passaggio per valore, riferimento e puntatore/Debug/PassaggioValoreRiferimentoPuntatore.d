@@ -1,0 +1,2 @@
+PassaggioValoreRiferimentoPuntatore.o: \
+  ../PassaggioValoreRiferimentoPuntatore.cpp

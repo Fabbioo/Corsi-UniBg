@@ -1,0 +1,1 @@
+PassaggioCostanti.o: ../PassaggioCostanti.cpp

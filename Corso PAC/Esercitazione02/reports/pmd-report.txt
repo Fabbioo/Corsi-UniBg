@@ -1,0 +1,954 @@
+src/AlberoBinarioObject/AlberoBinarioDemo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/AlberoBinarioDemo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/AlberoBinarioDemo.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/AlberoBinarioDemo.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/AlberoBinarioDemo.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioDemo.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioDemo.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'argc' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'argc' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:9:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:9:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb1' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb1' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo1' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo1' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:13:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:13:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb2' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb2' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo2' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo2' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb3' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb3' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo3' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo3' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:21:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:21:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb4' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb4' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:23:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nodo4' (lines '23'-'57').
+src/AlberoBinarioObject/AlberoBinarioDemo.java:23:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nodo4' (lines '23'-'57').
+src/AlberoBinarioObject/AlberoBinarioDemo.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo4' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo4' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:23:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'nodo4'.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:23:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'nodo4'.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:25:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:25:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb5' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb5' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nodo5' (lines '27'-'57').
+src/AlberoBinarioObject/AlberoBinarioDemo.java:27:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nodo5' (lines '27'-'57').
+src/AlberoBinarioObject/AlberoBinarioDemo.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo5' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo5' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:27:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'nodo5'.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:27:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'nodo5'.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:29:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:29:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb6' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb6' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:31:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nodo6' (lines '31'-'57').
+src/AlberoBinarioObject/AlberoBinarioDemo.java:31:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nodo6' (lines '31'-'57').
+src/AlberoBinarioObject/AlberoBinarioDemo.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo6' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo6' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:31:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'nodo6'.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:31:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'nodo6'.
+src/AlberoBinarioObject/AlberoBinarioDemo.java:33:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:33:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:34:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:34:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:35:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:35:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:36:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:36:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:39:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:39:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:41:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:41:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:41:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:41:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:43:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:43:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:45:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:45:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:45:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:45:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:47:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:47:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb8' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'alb8' could be declared final
+src/AlberoBinarioObject/AlberoBinarioDemo.java:50:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:50:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:52:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:52:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:54:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:54:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioObject/AlberoBinarioDemo.java:56:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioDemo.java:56:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioObject/AlberoBinarioIF.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/AlberoBinarioIF.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/AlberoBinarioIF.java:5:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/AlberoBinarioObject/AlberoBinarioIF.java:5:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/AlberoBinarioObject/AlberoBinarioIF.java:6:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:6:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:7:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:7:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:8:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:8:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:9:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:9:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:11:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:11:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:12:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:12:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:13:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:13:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:14:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:14:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:16:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:16:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:17:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:17:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:20:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:20:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:22:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:22:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:26:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/AlberoBinarioIF.java:26:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/AlberoBinarioIF.java:26:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/AlberoBinarioObject/AlberoBinarioIF.java:26:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/AlberoBinarioObject/AlberoBinarioIF.java:33:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'radice': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:33:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'radice': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:40:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'numNodi': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:40:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'numNodi': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:48:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:48:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:48:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'grado': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:48:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'grado': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:56:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:56:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:56:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'info': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:56:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'info': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:64:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:64:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:64:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'padre': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:64:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'padre': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:72:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:72:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:72:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sin': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:72:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sin': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:80:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:80:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:80:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'des': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:80:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'des': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:83:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:83:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:88:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:88:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:88:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'figlioSinistro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:88:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'figlioSinistro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:96:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:96:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:96:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'figlioDestro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:96:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'figlioDestro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:104:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:104:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:104:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'cambiaInfo': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:104:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'cambiaInfo': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:109:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:109:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like v1
+src/AlberoBinarioObject/AlberoBinarioIF.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like v1
+src/AlberoBinarioObject/AlberoBinarioIF.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like v2
+src/AlberoBinarioObject/AlberoBinarioIF.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like v2
+src/AlberoBinarioObject/AlberoBinarioIF.java:111:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'scambiaInfo': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:111:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'scambiaInfo': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:114:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:114:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:119:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioIF.java:119:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioIF.java:119:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'innestaSin': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:119:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'innestaSin': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:122:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:122:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioIF.java:127:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioIF.java:127:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioIF.java:127:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'innestaDes': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:127:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'innestaDes': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:135:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'potaSinistro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:135:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'potaSinistro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:143:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'potaDestro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:143:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'potaDestro': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:151:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:151:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioIF.java:151:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'pota': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:151:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'pota': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:159:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'visitaDFS': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:159:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'visitaDFS': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:167:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'visitaBFS': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioIF.java:167:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'visitaBFS': the method is declared in an interface type
+src/AlberoBinarioObject/AlberoBinarioImplements.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/AlberoBinarioImplements.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/AlberoBinarioImplements.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:9:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:9:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:11:	AvoidFieldNameMatchingMethodName:	AvoidFieldNameMatchingMethodName: Field radice has the same name as a method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:11:	AvoidFieldNameMatchingMethodName:	AvoidFieldNameMatchingMethodName: Field radice has the same name as a method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:11:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:11:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:15:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:15:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:20:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/AlberoBinarioObject/AlberoBinarioImplements.java:20:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/AlberoBinarioObject/AlberoBinarioImplements.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rad' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rad' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:28:	MissingOverride:	MissingOverride: The method 'radice()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:28:	MissingOverride:	MissingOverride: The method 'radice()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:32:	MissingOverride:	MissingOverride: The method 'numNodi()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:32:	MissingOverride:	MissingOverride: The method 'numNodi()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:37:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioImplements.java:37:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioImplements.java:38:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioImplements.java:38:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioImplements.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'r' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'r' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like r
+src/AlberoBinarioObject/AlberoBinarioImplements.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like r
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	MissingOverride:	MissingOverride: The method 'grado(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	MissingOverride:	MissingOverride: The method 'grado(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grado' (lines '47'-'51').
+src/AlberoBinarioObject/AlberoBinarioImplements.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grado' (lines '47'-'51').
+src/AlberoBinarioObject/AlberoBinarioImplements.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grado' (lines '47'-'53').
+src/AlberoBinarioObject/AlberoBinarioImplements.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grado' (lines '47'-'53').
+src/AlberoBinarioObject/AlberoBinarioImplements.java:48:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:48:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:49:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:49:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:50:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:50:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:51:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:51:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:51:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grado' (lines '51'-'53').
+src/AlberoBinarioObject/AlberoBinarioImplements.java:51:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grado' (lines '51'-'53').
+src/AlberoBinarioObject/AlberoBinarioImplements.java:52:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:52:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:53:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:53:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	MissingOverride:	MissingOverride: The method 'info(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	MissingOverride:	MissingOverride: The method 'info(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	MissingOverride:	MissingOverride: The method 'padre(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	MissingOverride:	MissingOverride: The method 'padre(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:61:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	MissingOverride:	MissingOverride: The method 'sin(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	MissingOverride:	MissingOverride: The method 'sin(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	MissingOverride:	MissingOverride: The method 'des(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	MissingOverride:	MissingOverride: The method 'des(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	MissingOverride:	MissingOverride: The method 'figlioSinistro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	MissingOverride:	MissingOverride: The method 'figlioSinistro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:74:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:75:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/AlberoBinarioObject/AlberoBinarioImplements.java:75:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/AlberoBinarioObject/AlberoBinarioImplements.java:76:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:76:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:76:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:76:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:76:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:76:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:78:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:78:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:78:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:78:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	MissingOverride:	MissingOverride: The method 'figlioDestro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	MissingOverride:	MissingOverride: The method 'figlioDestro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:82:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:83:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/AlberoBinarioObject/AlberoBinarioImplements.java:83:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/AlberoBinarioObject/AlberoBinarioImplements.java:84:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:84:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:84:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:84:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:84:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:84:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:86:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:86:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:86:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:86:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'info' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'info' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	MissingOverride:	MissingOverride: The method 'cambiaInfo(NodoBinario, Object)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	MissingOverride:	MissingOverride: The method 'cambiaInfo(NodoBinario, Object)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:89:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v1' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v1' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v2' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'v2' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	MissingOverride:	MissingOverride: The method 'scambiaInfo(NodoBinario, NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	MissingOverride:	MissingOverride: The method 'scambiaInfo(NodoBinario, NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like v1
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like v1
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like v2
+src/AlberoBinarioObject/AlberoBinarioImplements.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like v2
+src/AlberoBinarioObject/AlberoBinarioImplements.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'app' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'app' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'albero' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'albero' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	MissingOverride:	MissingOverride: The method 'innestaSin(NodoBinario, AlberoBinarioIF)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:100:	MissingOverride:	MissingOverride: The method 'innestaSin(NodoBinario, AlberoBinarioIF)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:101:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:101:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:102:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:102:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:103:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:103:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'albero' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'albero' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	MissingOverride:	MissingOverride: The method 'innestaDes(NodoBinario, AlberoBinarioIF)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:108:	MissingOverride:	MissingOverride: The method 'innestaDes(NodoBinario, AlberoBinarioIF)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:109:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:109:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:110:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:110:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:111:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:111:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:116:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:116:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:116:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:116:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:116:	MissingOverride:	MissingOverride: The method 'potaSinistro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:116:	MissingOverride:	MissingOverride: The method 'potaSinistro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:117:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:117:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:118:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:118:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:119:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:119:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:120:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:120:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:125:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:125:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:125:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:125:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'padre' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:125:	MissingOverride:	MissingOverride: The method 'potaDestro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:125:	MissingOverride:	MissingOverride: The method 'potaDestro(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:126:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:126:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'figlio' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:127:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:127:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:128:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:128:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:129:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:129:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:133:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioImplements.java:133:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioObject/AlberoBinarioImplements.java:134:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:134:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:134:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rimosso' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:134:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rimosso' is not assigned and could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:134:	MissingOverride:	MissingOverride: The method 'pota(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:134:	MissingOverride:	MissingOverride: The method 'pota(NodoBinario)' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:136:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:136:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:137:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:137:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:137:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:137:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:140:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:140:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:141:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:141:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:144:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pad' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:144:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pad' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:146:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:146:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:147:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:147:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioObject/AlberoBinarioImplements.java:147:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'newalbero'
+src/AlberoBinarioObject/AlberoBinarioImplements.java:147:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'newalbero'
+src/AlberoBinarioObject/AlberoBinarioImplements.java:149:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:149:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newalbero' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:150:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'newalbero'
+src/AlberoBinarioObject/AlberoBinarioImplements.java:150:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'newalbero'
+src/AlberoBinarioObject/AlberoBinarioImplements.java:155:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:155:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:155:	MissingOverride:	MissingOverride: The method 'visitaDFS()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:155:	MissingOverride:	MissingOverride: The method 'visitaDFS()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:156:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'output' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:156:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'output' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:157:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pila' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:157:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pila' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:157:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/AlberoBinarioObject/AlberoBinarioImplements.java:157:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/AlberoBinarioObject/AlberoBinarioImplements.java:158:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:158:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:159:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:159:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:161:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'u' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:161:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'u' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:161:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioImplements.java:161:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioImplements.java:164:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:164:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:165:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:165:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:166:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:166:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:167:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:167:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:173:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:173:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/AlberoBinarioImplements.java:173:	MissingOverride:	MissingOverride: The method 'visitaBFS()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:173:	MissingOverride:	MissingOverride: The method 'visitaBFS()' is missing an @Override annotation.
+src/AlberoBinarioObject/AlberoBinarioImplements.java:174:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'output' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:174:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'output' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:175:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'coda' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:175:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'coda' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:176:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:176:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:177:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:177:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:179:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'u' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:179:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'u' could be declared final
+src/AlberoBinarioObject/AlberoBinarioImplements.java:179:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioImplements.java:179:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioObject/AlberoBinarioImplements.java:182:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:182:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:183:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:183:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:184:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:184:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:185:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/AlberoBinarioImplements.java:185:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioObject/NodoBinario.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/NodoBinario.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioObject/NodoBinario.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/NodoBinario.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioObject/NodoBinario.java:4:	DataClass:	DataClass: The class 'NodoBinario' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+src/AlberoBinarioObject/NodoBinario.java:4:	DataClass:	DataClass: The class 'NodoBinario' is suspected to be a Data Class (WOC=0.000%, NOPA=4, NOAM=0, WMC=1)
+src/AlberoBinarioObject/NodoBinario.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:9:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:9:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioObject/NodoBinario.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioObject/NodoBinario.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/NodoBinario.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioObject/NodoBinario.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'elem' is not assigned and could be declared final
+src/AlberoBinarioObject/NodoBinario.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'elem' is not assigned and could be declared final
+src/AlberoBinarioObject/NodoBinario.java:13:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/NodoBinario.java:13:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/NodoBinario.java:14:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/NodoBinario.java:14:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/NodoBinario.java:15:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioObject/NodoBinario.java:15:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/AlberoBinarioRicercaObject/AlberoBR.java:96:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/AlberoBR.java:96:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/AlberoBR.java:114:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/AlberoBR.java:114:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/AlberoBR.java:115:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/AlberoBR.java:115:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:5:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'diz' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'diz' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:11:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:11:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:14:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:14:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:20:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:20:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:26:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:26:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:29:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:29:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:34:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:34:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:39:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:39:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:40:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:40:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:41:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:41:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:42:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:42:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:43:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:43:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:45:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:45:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:49:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:49:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:52:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:52:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:54:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:54:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:58:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:58:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:61:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:61:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:63:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:63:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:67:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:67:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:70:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:70:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:72:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:72:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'r' could be declared final
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:76:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/AlberoRicercaDemo.java:76:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/AlberoBinarioRicercaObject/Dizionario.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/Dizionario.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/Dizionario.java:3:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/AlberoBinarioRicercaObject/Dizionario.java:3:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/AlberoBinarioRicercaObject/Dizionario.java:7:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:7:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:11:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:11:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:12:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:12:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/AlberoBinarioRicercaObject/Dizionario.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/AlberoBinarioRicercaObject/Dizionario.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/Dizionario.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/Dizionario.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insert': the method is declared in an interface type
+src/AlberoBinarioRicercaObject/Dizionario.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insert': the method is declared in an interface type
+src/AlberoBinarioRicercaObject/Dizionario.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/Dizionario.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/Dizionario.java:31:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'delete': the method is declared in an interface type
+src/AlberoBinarioRicercaObject/Dizionario.java:31:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'delete': the method is declared in an interface type
+src/AlberoBinarioRicercaObject/Dizionario.java:35:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:35:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/AlberoBinarioRicercaObject/Dizionario.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/Dizionario.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/Dizionario.java:41:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'search': the method is declared in an interface type
+src/AlberoBinarioRicercaObject/Dizionario.java:41:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'search': the method is declared in an interface type
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:7:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:7:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nodo' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nodo' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:9:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:9:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:9:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:9:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:9:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:9:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:11:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:11:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:11:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:11:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:14:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:14:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nodo' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nodo' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:16:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:16:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:16:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:16:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:16:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:16:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:18:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:18:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:18:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:18:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'elemento' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'elemento' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:27:	MissingOverride:	MissingOverride: The method 'insert(Object, Comparable)' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:27:	MissingOverride:	MissingOverride: The method 'insert(Object, Comparable)' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:29:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nb' (lines '29'-'51').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:29:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'nb' (lines '29'-'51').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nb' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nb' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like nb
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like nb
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:32:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:32:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:32:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:32:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:35:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nodoSuccessivo' (lines '35'-'37').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:35:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nodoSuccessivo' (lines '35'-'37').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:37:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nodoSuccessivo' (lines '37'-'37').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:37:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'nodoSuccessivo' (lines '37'-'37').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:39:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:39:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:39:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:39:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:41:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:41:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:41:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:41:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:47:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:47:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:47:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:47:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:49:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:49:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:53:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:53:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'k' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'k' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:62:	MissingOverride:	MissingOverride: The method 'search(Comparable)' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:62:	MissingOverride:	MissingOverride: The method 'search(Comparable)' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:62:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:62:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:65:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:65:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:65:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:65:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:65:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:65:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:67:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:67:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:67:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:67:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:71:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:71:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:73:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:73:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:74:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:74:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:74:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:74:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:76:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'nodo'
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:76:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'nodo'
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:76:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:76:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:76:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:76:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:78:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:78:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:78:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:78:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:88:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:88:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:88:	MissingOverride:	MissingOverride: The method 'delete(Comparable)' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:88:	MissingOverride:	MissingOverride: The method 'delete(Comparable)' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodo' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'v' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'v' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:97:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:97:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'u' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'u' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:105:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:105:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:106:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'v' (lines '106'-'108').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:106:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'v' (lines '106'-'108').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:106:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'v' (lines '106'-'110').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:106:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'v' (lines '106'-'110').
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:106:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:106:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:107:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:107:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:108:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:108:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:108:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:108:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:109:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:109:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:110:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:110:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:112:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:112:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:112:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:112:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:115:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'albf' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:115:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'albf' could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:117:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:117:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:118:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:118:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:127:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'u' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:127:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'u' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:127:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:127:	ShortVariable:	ShortVariable: Avoid variables with short names like u
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:128:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:128:	ShortVariable:	ShortVariable: Avoid variables with short names like v
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:129:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:129:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:129:	WhileLoopsMustUseBraces:	WhileLoopsMustUseBraces: Avoid using while statements without curly braces
+src/AlberoBinarioRicercaObject/DizionarioImplements.java:129:	WhileLoopsMustUseBraces:	WhileLoopsMustUseBraces: Avoid using while statements without curly braces
+src/AlberoBinarioRicercaObject/Record.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/Record.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/AlberoBinarioRicercaObject/Record.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioRicercaObject/Record.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/AlberoBinarioRicercaObject/Record.java:5:	DataClass:	DataClass: The class 'Record' is suspected to be a Data Class (WOC=25.000%, NOPA=2, NOAM=2, WMC=4)
+src/AlberoBinarioRicercaObject/Record.java:5:	DataClass:	DataClass: The class 'Record' is suspected to be a Data Class (WOC=25.000%, NOPA=2, NOAM=2, WMC=4)
+src/AlberoBinarioRicercaObject/Record.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioRicercaObject/Record.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioRicercaObject/Record.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioRicercaObject/Record.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioRicercaObject/Record.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioRicercaObject/Record.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AlberoBinarioRicercaObject/Record.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioRicercaObject/Record.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/AlberoBinarioRicercaObject/Record.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioRicercaObject/Record.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioRicercaObject/Record.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/Record.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chiave' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/Record.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'elemento' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/Record.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'elemento' is not assigned and could be declared final
+src/AlberoBinarioRicercaObject/Record.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioRicercaObject/Record.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/AlberoBinarioRicercaObject/Record.java:23:	MissingOverride:	MissingOverride: The method 'toString()' is missing an @Override annotation.
+src/AlberoBinarioRicercaObject/Record.java:23:	MissingOverride:	MissingOverride: The method 'toString()' is missing an @Override annotation.
+src/CodaObject/Coda.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/Coda.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/Coda.java:3:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/CodaObject/Coda.java:3:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/CodaObject/Coda.java:13:	ShortClassName:	ShortClassName: Avoid short class names like Coda
+src/CodaObject/Coda.java:13:	ShortClassName:	ShortClassName: Avoid short class names like Coda
+src/CodaObject/Coda.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isEmpty': the method is declared in an interface type
+src/CodaObject/Coda.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isEmpty': the method is declared in an interface type
+src/CodaObject/Coda.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/Coda.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/Coda.java:28:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'enqueue': the method is declared in an interface type
+src/CodaObject/Coda.java:28:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'enqueue': the method is declared in an interface type
+src/CodaObject/Coda.java:35:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'first': the method is declared in an interface type
+src/CodaObject/Coda.java:35:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'first': the method is declared in an interface type
+src/CodaObject/Coda.java:42:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'dequeue': the method is declared in an interface type
+src/CodaObject/Coda.java:42:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'dequeue': the method is declared in an interface type
+src/CodaObject/CodaCollegata.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/CodaCollegata.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/CodaCollegata.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/CodaObject/CodaCollegata.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/CodaObject/CodaCollegata.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:14:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'inizio'
+src/CodaObject/CodaCollegata.java:14:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'inizio'
+src/CodaObject/CodaCollegata.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:17:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'fine'
+src/CodaObject/CodaCollegata.java:17:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'fine'
+src/CodaObject/CodaCollegata.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/CodaObject/CodaCollegata.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/CodaObject/CodaCollegata.java:26:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:26:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/CodaObject/CodaCollegata.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/CodaObject/CodaCollegata.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/CodaObject/CodaCollegata.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/CodaObject/CodaCollegata.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/CodaCollegata.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/CodaCollegata.java:38:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/CodaObject/CodaCollegata.java:38:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/CodaObject/CodaCollegata.java:47:	MissingOverride:	MissingOverride: The method 'isEmpty()' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:47:	MissingOverride:	MissingOverride: The method 'isEmpty()' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/CodaObject/CodaCollegata.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/CodaObject/CodaCollegata.java:57:	MissingOverride:	MissingOverride: The method 'enqueue(Object)' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:57:	MissingOverride:	MissingOverride: The method 'enqueue(Object)' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/CodaCollegata.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/CodaCollegata.java:59:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/CodaCollegata.java:59:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/CodaCollegata.java:59:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/CodaObject/CodaCollegata.java:59:	IfElseStmtsMustUseBraces:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/CodaObject/CodaCollegata.java:72:	AvoidUncheckedExceptionsInSignatures:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/CodaObject/CodaCollegata.java:72:	AvoidUncheckedExceptionsInSignatures:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/CodaObject/CodaCollegata.java:72:	MissingOverride:	MissingOverride: The method 'first()' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:72:	MissingOverride:	MissingOverride: The method 'first()' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:73:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/CodaObject/CodaCollegata.java:73:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/CodaObject/CodaCollegata.java:74:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/CodaCollegata.java:74:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/CodaCollegata.java:84:	MissingOverride:	MissingOverride: The method 'dequeue()' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:84:	MissingOverride:	MissingOverride: The method 'dequeue()' is missing an @Override annotation.
+src/CodaObject/CodaCollegata.java:85:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/CodaObject/CodaCollegata.java:85:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/CodaObject/CodaCollegata.java:86:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/CodaCollegata.java:86:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/CodaCollegata.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'e' could be declared final
+src/CodaObject/CodaCollegata.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'e' could be declared final
+src/CodaObject/CodaCollegata.java:87:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/CodaCollegata.java:87:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/CodaObject/EccezioneStrutturaVuota.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/EccezioneStrutturaVuota.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/EccezioneStrutturaVuota.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/CodaObject/EccezioneStrutturaVuota.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/CodaObject/EccezioneStrutturaVuota.java:3:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/CodaObject/EccezioneStrutturaVuota.java:3:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/CodaObject/EccezioneStrutturaVuota.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/CodaObject/EccezioneStrutturaVuota.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/CodaObject/EccezioneStrutturaVuota.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'messaggioErrore' is not assigned and could be declared final
+src/CodaObject/EccezioneStrutturaVuota.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'messaggioErrore' is not assigned and could be declared final
+src/CodaObject/EccezioneStrutturaVuota.java:9:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/CodaObject/EccezioneStrutturaVuota.java:9:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/CodaObject/EccezioneStrutturaVuota.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/CodaObject/EccezioneStrutturaVuota.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/CodaObject/EccezioneStrutturaVuota.java:9:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/CodaObject/EccezioneStrutturaVuota.java:9:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/CodaObject/ProvaCoda.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/ProvaCoda.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/CodaObject/ProvaCoda.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/CodaObject/ProvaCoda.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/CodaObject/ProvaCoda.java:3:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/CodaObject/ProvaCoda.java:3:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/CodaObject/ProvaCoda.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/CodaObject/ProvaCoda.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/CodaObject/ProvaCoda.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/CodaObject/ProvaCoda.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/CodaObject/ProvaCoda.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'coda' could be declared final
+src/CodaObject/ProvaCoda.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'coda' could be declared final
+src/CodaObject/ProvaCoda.java:12:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '12'-'41').
+src/CodaObject/ProvaCoda.java:12:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '12'-'41').
+src/CodaObject/ProvaCoda.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/CodaObject/ProvaCoda.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/CodaObject/ProvaCoda.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/CodaObject/ProvaCoda.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/CodaObject/ProvaCoda.java:12:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'n'.
+src/CodaObject/ProvaCoda.java:12:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'n'.
+src/CodaObject/ProvaCoda.java:14:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:14:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:19:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/ProvaCoda.java:19:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/ProvaCoda.java:19:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/CodaObject/ProvaCoda.java:19:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/CodaObject/ProvaCoda.java:19:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/CodaObject/ProvaCoda.java:19:	ForLoopsMustUseBraces:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/CodaObject/ProvaCoda.java:24:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:24:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:26:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:26:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:32:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:32:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:33:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/ProvaCoda.java:33:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/CodaObject/ProvaCoda.java:33:	WhileLoopsMustUseBraces:	WhileLoopsMustUseBraces: Avoid using while statements without curly braces
+src/CodaObject/ProvaCoda.java:33:	WhileLoopsMustUseBraces:	WhileLoopsMustUseBraces: Avoid using while statements without curly braces
+src/CodaObject/ProvaCoda.java:35:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:35:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/CodaObject/ProvaCoda.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used

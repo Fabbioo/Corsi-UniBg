@@ -1,0 +1,21 @@
+def insertionsort(sequence, start=None, end=None):
+
+    if len(sequence) <= 1:
+        return
+
+    # start and end can be used to work with subsequences (see hybrid approach)
+    if not start and not end:
+        start = 1
+        end = len(sequence)
+
+    for i in range(start, end):
+
+        curr = sequence[i]
+        j = i
+        # find the location j where curr should be placed, move all
+        # the elements greater than curr to the right of curr
+        while j > 0 and sequence[j-1] > curr: # note the precedence relation
+            sequence[j] = sequence[j-1] # move forward the element in position j-1
+            j -= 1
+        else: # insert curr in the correct position
+            sequence[j] = curr

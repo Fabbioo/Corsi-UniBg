@@ -1,0 +1,1 @@
+Esercizio.o: ../Esercizio.cpp

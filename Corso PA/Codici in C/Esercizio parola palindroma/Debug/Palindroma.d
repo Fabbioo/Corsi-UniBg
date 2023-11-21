@@ -1,0 +1,1 @@
+Palindroma.o: ../Palindroma.c

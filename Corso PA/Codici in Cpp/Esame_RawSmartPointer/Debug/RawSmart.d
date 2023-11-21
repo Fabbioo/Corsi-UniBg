@@ -1,0 +1,1 @@
+RawSmart.o: ../RawSmart.cpp

@@ -1,0 +1,1 @@
+DanglingPointerStructHeap.o: ../DanglingPointerStructHeap.c
